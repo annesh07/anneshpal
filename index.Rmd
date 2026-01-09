@@ -1,13 +1,6 @@
----
+--- 
 title: "Annesh Pal"
 image: "20241202_130510.jpg"
-
-meta:
-  - name: google-site-verification
-    content: "eEVup96OEpur1_kXBRJ_z_jjKePVoSG-uzVZ42ypXxE"
-  - name: description
-    content: "Annesh Pal is a PhD student in Biostatistics at the University of Bordeaux,France; currently working on Bayesian non-parametrics, clustering, deconvolution and transcriptomic data analysis."
-
 
 links:
   - label: LinkedIn
