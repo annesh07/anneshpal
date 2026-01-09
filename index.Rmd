@@ -4,7 +4,7 @@ image: "20241202_130510.jpg"
 
 meta:
   - name: google-site-verification
-    content: googlef517afbab6449aed.html
+    content: "eEVup96OEpur1_kXBRJ_z_jjKePVoSG-uzVZ42ypXxE"
   - name: description
     content: "Annesh Pal is a PhD student in Biostatistics at the University of Bordeaux,France; currently working on Bayesian non-parametrics, clustering, deconvolution and transcriptomic data analysis."
 
@@ -39,4 +39,3 @@ Ph.D. in Biostatistics | December 2023 - Present
 **Indian Institute of Science, Education and research** | Kolkata, India
 
 Integrated B.S.-M.S. in Mathematics and statistics | August 2017 - July 2022
-
