@@ -7,5 +7,4 @@ output:
 
 ## R package
 
-- **vimixr** - R package for clustering high dimensional data using Dirichlet Process mixture models (DPMM) via collapsed Variational Inference (VI).
-[Github](https://github.com/annesh07/vimixr) · [CRAN](https://cran.r-project.org/web/packages/vimixr/index.html)
+- [**vimixr**](https://annesh07.github.io/vimixr/) - R package for clustering high dimensional data using Dirichlet Process mixture models (DPMM) via collapsed Variational Inference (VI); available in [CRAN](https://cran.r-project.org/web/packages/vimixr/index.html)
