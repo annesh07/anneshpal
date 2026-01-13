@@ -1,0 +1,11 @@
+---
+title: "Software"
+output:
+  postcards::solana
+---
+[Home](index.html) · [Software](software.html) 
+
+## R package
+
+- **vimixr** - R package for clustering high dimensional data using Dirichlet Process mixture models (DPMM) via collapsed Variational Inference (VI).
+[Github](https://github.com/annesh07/vimixr) · [CRAN](https://cran.r-project.org/web/packages/vimixr/index.html)
