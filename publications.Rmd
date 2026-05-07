@@ -1,0 +1,10 @@
+---
+title: "Publications"
+output:
+  postcards::solana
+---
+[Home](index.html) · [Software](software.html) · [Publications](publications.html) 
+
+## Pre-print
+
+-  [**Scalable Dirichlet Process Mixture Models with Unknown Concentration and Adaptive Covariance for High-Dimensional Clustering Applied to Leukemia Transcriptomics**](https://arxiv.org/abs/2601.21106); *Annesh Pal, Aguirre Mimoun, Rodolphe Thiébaut, Boris P. Hejblum*

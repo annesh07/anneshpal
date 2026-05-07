@@ -3,7 +3,7 @@ title: "Software"
 output:
   postcards::solana
 ---
-[Home](index.html) · [Software](software.html) 
+[Home](index.html) · [Software](software.html) · [Publications](publications.html) 
 
 ## R package
 
